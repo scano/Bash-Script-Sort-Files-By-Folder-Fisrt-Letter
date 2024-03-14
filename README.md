@@ -6,6 +6,6 @@ Usage:
 
 ```bash
 
-$ sh sort-files-in-folders.sh /Path/Of/Files_To_Sort
+$ sh sort-files-by-folders.sh /Path/Of/Files_To_Sort
 
 ```
