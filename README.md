@@ -1,5 +1,5 @@
-# Bash-Script-Sort-Files-By-Folder-Fisrt-Letter
-A bash script to sort files in folder by the fisrt letter. If folder doesn't exists, create.
+# Bash script to sort files by folder and the fisrt letter
+A bash script to sort files in folder by the fisrt letter of the filename. If folder doesn't exists, create.
 The script prompt to create folders in upper or lower case: A,a,B,b,....
 
 Usage:
